@@ -12,3 +12,5 @@ def guess(x):
     print(f"You guessed correctly {guess_num}")
 
 guess(10) #range till 10
+
+#adding new comment to guess_game
